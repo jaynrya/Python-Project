@@ -1,7 +1,5 @@
 import numpy as np
 """
-Name : Ajijola Olajide Precious
-Mat No: 00800999
 Task  1: Finding the real root of a polynominal using Newton-Horners Method
 
 This polynomial was evaluated using "Synthetic division Method of Horners Scheme"
