@@ -1,0 +1,6 @@
+Horner's method (or Horner's scheme) is an algorithm for polynomial evaluation. Although named after William George Horner, this method is much older, as it has been attributed to Joseph-Louis Lagrange by Horner himself, and can be traced back many hundreds of years to Chinese and Persian mathematicians.[1] After the introduction of computers, this algorithm became fundamental for computing efficiently with polynomials.
+
+Given a polynomial of the form cnxn + cn-1xn-1 + cn-2xn-2 + … + c1x + c0 and a value of x, find the value of polynomial for a given value of x. Here cn, cn-1, .. are integers (may be negative) and n is a positive integer.
+Input is in the form of an array say poly[] where poly[0] represents coefficient for xn and poly[1] represents coefficient for xn-1 and so on.
+
+https://www.geeksforgeeks.org/horners-method-polynomial-evaluation/
