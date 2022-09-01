@@ -1,6 +1,4 @@
 """
-Name : Ajijola Olajide Precious
-Mat No: 00800999
 Task  3: Web scraper program
 """
 from selenium import webdriver
